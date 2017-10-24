@@ -8,3 +8,4 @@ Class test for WNM 499 2017 Fall
 - Vrusha Chauhan
 - Dale Shin
 - Catherine Flores-Espinosa
+- Katie Noborikawa
