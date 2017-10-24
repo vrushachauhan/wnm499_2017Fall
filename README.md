@@ -7,3 +7,4 @@ Class test for WNM 499 2017 Fall
 - Amber Slovick
 - Vrusha Chauhan
 - Dale Shin
+- Catherine Flores-Espinosa
