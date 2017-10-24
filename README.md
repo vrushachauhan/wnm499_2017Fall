@@ -6,3 +6,4 @@ Class test for WNM 499 2017 Fall
 - Hamilton Cline
 - Amber Slovick
 - Vrusha Chauhan
+- Dale Shin
